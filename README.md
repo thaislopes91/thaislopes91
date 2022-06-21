@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @thaislopes91
-- 👀 I’m interested in learn more and more about new tecnologies
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learn more about new tecnologies, people, diversity and equality.
 - 📫 How to reach me thais.anjos391@gmail.com
 
 <!---
